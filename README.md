@@ -1,7 +1,7 @@
-# AWS CDK Cognito User Pool Example - Complete Guide
+# AWS CDK Cognito Identity Pool Example - Complete Guide
 
 A repository for an article on
-[bobbyhadz.com](https://bobbyhadz.com/blog/aws-cdk-cognito-user-pool-example)
+[bobbyhadz.com](https://bobbyhadz.com/blog/aws-cdk-cognito-identity-pool-example)
 
 ## How to Use
 
