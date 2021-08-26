@@ -68,7 +68,7 @@ export class CdkStarterStack extends cdk.Stack {
               'cognito-identity.amazonaws.com:aud': identityPool.ref,
             },
             'ForAnyValue:StringLike': {
-              'cognito-identity.amazonaws.com:amr': 'authenticated',
+              'cognito-identity.amazonaws.com:amr': 'unauthenticated',
             },
           },
           'sts:AssumeRoleWithWebIdentity',
