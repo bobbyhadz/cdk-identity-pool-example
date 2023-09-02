@@ -1,7 +1,7 @@
 # AWS CDK Cognito Identity Pool Example - Complete Guide
 
 A repository for an article on
-[bobbyhadz.com](https://bobbyhadz.com/blog/aws-cdk-cognito-identity-pool-example)
+[bobbyhadz.com](https://bobbyhadz.com/blog/aws-cdk-cognito-user-pool-example)
 
 > If you use CDK v1, switch to the cdk-v1 branch
 
